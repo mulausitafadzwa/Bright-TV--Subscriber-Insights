@@ -3,6 +3,7 @@ A detailed analysis of BrightTV’s user profiles and viewer transaction data, c
 
 ## Dataset Used 
 - <a href="https://github.com/mulausitafadzwa/Retail-Sales-Analysis/blob/main/Dataset.csv">Dataset</a>
+- <a href="https://github.com/mulausitafadzwa/Bright-TV--Subscriber-Insights/blob/main/User_Profiles.csv">User Profile</a>
 
 ## Objectives
 
