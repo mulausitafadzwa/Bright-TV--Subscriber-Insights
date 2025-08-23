@@ -1,9 +1,9 @@
 ## Project Overview
-A detailed analysis of BrightTV’s user profiles and viewer transaction data, conducted to provide strategic insights for the Customer Value Management team. The project aims to support the company’s objective of expanding its subscription base by delivering actionable insights through structured visualizations and an interactive dashboard, enabling informed, data-driven decision-making.
+This project delivers a comprehensive analysis of BrightTV’s subscriber behavior and content consumption trends, designed to assist the Customer Value Management team in achieving its subscription growth objectives for the financial year. By examining detailed user profile and transaction data, the study identifies key drivers of engagement and uncovers opportunities for targeted content delivery.
 
 ## Dataset Used 
-- <a href="https://github.com/mulausitafadzwa/Retail-Sales-Analysis/blob/main/Dataset.csv">Dataset</a>
 - <a href="https://github.com/mulausitafadzwa/Bright-TV--Subscriber-Insights/blob/main/User_Profiles.csv">User Profile</a>
+- <a href="https://github.com/mulausitafadzwa/Bright-TV--Subscriber-Insights/blob/main/Viewership.csv">Viewership</a>
 
 ## Objectives
 
