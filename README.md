@@ -22,6 +22,19 @@ This project delivers a comprehensive analysis of BrightTV’s subscriber behavi
   1. Conversion of timestamps from UTC to South African Standard Time (UTC+2).
   2. Standardization of formats and handling of missing values.
   3. Integration of the two datasets on the UserId key.
+- Applied an analytical framework to explore trends across user demographics, time-of-day patterns, and content categories.
+- Segmented users into age cohorts, provinces, genders, and races to compare engagement levels.
+- Defined calculated metrics such as daily/weekly viewers, percentage contribution by segment, and time-of-day usage buckets.
+- Designed and built an interactive Power BI dashboard to present findings.
+- Visuals included:
+  1. Demographic distribution of viewership.
+  2. weekly consumption trends.
+  3. Time-of-day usage segmentation.
+  4. Content performance by channel
+- Ensured usability by incorporating clear sorting, labeling, and intuitive navigation.
+- Interpreted the results to highlight high-value audience groups and peak engagement times.
+- Identified underperforming periods and content segments, recommending targeted strategies to increase consumption.
+- Proposed initiatives to expand BrightTV’s user base through data-driven engagement tactics.
 
 ## Dashboard
 <img width="1153" height="647" alt="BrightTV Screenshot" src="https://github.com/user-attachments/assets/3b47425d-7aab-4e3d-8d5b-d214764b6f57" />
