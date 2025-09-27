@@ -7,4 +7,6 @@ This project delivers a comprehensive analysis of BrightTV’s subscriber behavi
 
 ## Objectives
 
+## Dashboard
+<img width="1153" height="647" alt="BrightTV Screenshot" src="https://github.com/user-attachments/assets/3b47425d-7aab-4e3d-8d5b-d214764b6f57" />
 
