@@ -11,7 +11,9 @@ This project delivers a comprehensive analysis of BrightTV’s subscriber behavi
 - Weekly consumption patterns to identify high and low engagement periods.
 - Identify top-performing channels in terms of viewership engagment .
 - Audience segmentation to understand which user groups contribute most to viewership.
-- 
+  
+- <a href="https://github.com/mulausitafadzwa/Bright-TV--Subscriber-Insights/blob/main/BrightTV%20Screenshot.png">Dashboard</a>
+
 
 ## Dashboard
 <img width="1153" height="647" alt="BrightTV Screenshot" src="https://github.com/user-attachments/assets/3b47425d-7aab-4e3d-8d5b-d214764b6f57" />
